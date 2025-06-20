@@ -15,8 +15,8 @@ Diagnose and monitor **Lenovo Legion 5 Pro screen disconnection issues** through
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/legion-system-monitor.git
-cd legion-system-monitor
+git clone https://github.com/Maxlab/systemmonitor.git
+cd systemmonitor
 
 # Run the enhanced Legion monitor
 python3 enhanced_legion_monitor.py
@@ -267,8 +267,8 @@ sudo sensors-detect
 
 ### Development Setup
 ```bash
-git clone https://github.com/maxlab/legion-system-monitor.git
-cd legion-system-monitor
+git clone https://github.com/Maxlab/systemmonitor.git
+cd systemmonitor
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -299,8 +299,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/legion-system-monitor/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/legion-system-monitor/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Maxlab/systemmonitor/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Maxlab/systemmonitor/discussions)
 - **Hardware**: Tested on Legion 5 Pro (AMD Ryzen 7 5800H + RTX 3070)
 
 ---
